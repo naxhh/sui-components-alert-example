@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "@schibstedspain/sui-alert-basic": "^1.2.0",
-    "react": "0.14"
+    "react": "0.14",
+    "react-dom": "0.14"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
